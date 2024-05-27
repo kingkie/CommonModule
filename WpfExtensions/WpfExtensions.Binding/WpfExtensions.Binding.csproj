@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net462;netstandard2.0</TargetFrameworks>
+    <Version>1.1.0</Version>
+    <Description>Provides convenient support for data binding.</Description>
+    <PackageTags>wpf;data-binding;mvvm;binding;computed-property</PackageTags>
+    <Product>WpfExtensions.Binding</Product>
+    <PackageId>WpfExtensions.Binding</PackageId>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,193 @@
+﻿<Window x:Class="WpfDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDemo"
+        mc:Ignorable="d"
+        xmlns:my="clr-namespace:WpfDemo"
+        Title="MainWindow" Height="6000" Width="800">
+    <Window.Resources>
+        <DropShadowEffect x:Key="shadow" BlurRadius="4" ShadowDepth="0" Direction="270" Color="#C6C6C6" Opacity="0.5"/>
+        <DropShadowEffect x:Key="shadow1" BlurRadius="5" ShadowDepth="0" Direction="270" Color="#C6C6C6" Opacity="0.2"/>
+        
+        <Style TargetType="{x:Type ToolTip}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ToolTip}">
+                        <Grid>
+                            <Border Effect="{StaticResource shadow}" Padding="10,5"
+                                    Background="White" Margin="4" CornerRadius="1"
+                                    BorderBrush="#CCCEDB" BorderThickness="1">
+                            </Border>
+                            <TextBlock x:Name="text" TextWrapping="Wrap" Foreground="Black"
+                                       Text="{Binding Content, RelativeSource={RelativeSource TemplatedParent}}"  
+                                       VerticalAlignment="Center" HorizontalAlignment="Center"
+                                       Margin="15,10" TextOptions.TextFormattingMode="Display"/>
+                        </Grid>
+                        
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <StackPanel Margin="0,50">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Grid>
+                    <Border BorderBrush="Black" Background="AliceBlue" BorderThickness="10" Margin="7,0,0,0">
+                        <Border.Effect>
+                            <DropShadowEffect BlurRadius="10" Opacity="0.5" ShadowDepth="0" Color="Brown" />
+                        </Border.Effect>
+                    </Border>
+                    <my:AngleBorder Padding="10,5" BorderBrush="#2020FF" Background="#DDDDDD" BorderThickness="1" 
+                            UseLayoutRounding="True" SnapsToDevicePixels="True"
+                            Placement="LeftCenter" CornerRadius="0"
+                            TailWidth="6" TailHeight="12">
+
+                        <TextBlock x:Name="text2" Text="fdsafdsafsdafsdfsdafadsfasdfdsfdasfdsfsadfdsafadsfadsdasfas" 
+                               TextWrapping="Wrap" Width="50" HorizontalAlignment="Center"
+                               VerticalAlignment="Center" Foreground="Black"
+                               SnapsToDevicePixels="True" UseLayoutRounding="True" />
+                    </my:AngleBorder>
+                </Grid>
+
+                <Grid Margin="20,0">
+                    <my:AngleBorder Padding="10,5" BorderBrush="#2020FF" Background="#DDDDDD" BorderThickness="1" 
+                            UseLayoutRounding="True" SnapsToDevicePixels="True"
+                            Placement="LeftTop" CornerRadius="0"
+                            TailWidth="6" TailHeight="12">
+
+                        <TextBlock Text="fdsafdsafsdafsdfsdafadsfasdfdsfdasfdsfsadfdsafadsfadsdasfas" 
+                               TextWrapping="Wrap" Width="50" HorizontalAlignment="Center"
+                               VerticalAlignment="Center" Foreground="Black"
+                               SnapsToDevicePixels="True" UseLayoutRounding="True" />
+                    </my:AngleBorder>
+                </Grid>
+
+                <Grid Margin="20,0">
+                    <my:AngleBorder Padding="10,5" BorderBrush="#2020FF" Background="#DDDDDD" BorderThickness="1" 
+                            UseLayoutRounding="True" SnapsToDevicePixels="True"
+                            Placement="LeftBottom" CornerRadius="0"
+                            TailWidth="6" TailHeight="12">
+
+                        <TextBlock Text="fdsafdsafsdafsdfsdafadsfasdfdsfdasfdsfsadfdsafadsfadsdasfas" 
+                               TextWrapping="Wrap" Width="50" HorizontalAlignment="Center"
+                               VerticalAlignment="Center" Foreground="Black"
+                               SnapsToDevicePixels="True" UseLayoutRounding="True" />
+                    </my:AngleBorder>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,20">
+                <my:AngleBorder Padding="10" BorderBrush="#62BE65" BorderThickness="1" 
+                            SnapsToDevicePixels="True" UseLayoutRounding="True"
+                            Placement="TopLeft" CornerRadius="5" Margin="10,0" VerticalAlignment="Center"
+                            TailWidth="12" TailHeight="6">
+                    <TextBlock Text="fdsafdasdaf" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </my:AngleBorder>
+
+                <my:AngleBorder Padding="10" BorderBrush="#62BE65" BorderThickness="1" 
+                            SnapsToDevicePixels="True" UseLayoutRounding="True"
+                            Placement="TopCenter" CornerRadius="5" Margin="10,0" VerticalAlignment="Center"
+                            TailWidth="12" TailHeight="6">
+                    <TextBlock Text="fdsafdasdaf" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </my:AngleBorder>
+
+                <my:AngleBorder Padding="10" BorderBrush="#62BE65" BorderThickness="1" 
+                            SnapsToDevicePixels="True" UseLayoutRounding="True"
+                            Placement="TopRight" CornerRadius="5" Margin="10,0" VerticalAlignment="Center"
+                            TailWidth="12" TailHeight="6">
+                    <TextBlock Text="fdsafdasdaf" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </my:AngleBorder>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Grid Height="38" Margin="10,0">
+                    <my:AngleBorder Padding="10" BorderBrush="Black" BorderThickness="1" 
+                            UseLayoutRounding="True" SnapsToDevicePixels="True"
+                            Placement="RightTop" CornerRadius="4" VerticalAlignment="Center"
+                            Background="#00007ACC"
+                            TailWidth="6" TailHeight="12" >
+                        <TextBlock Foreground="Black" Text="fdsadfsafsdafadsf" 
+                           VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    </my:AngleBorder>
+                </Grid>
+
+                <Grid Margin="10,0">
+                    <my:AngleBorder Padding="50,40" BorderBrush="Black" BorderThickness="1" 
+                            UseLayoutRounding="True" SnapsToDevicePixels="True"
+                            Placement="RightCenter" CornerRadius="4" VerticalAlignment="Center"
+                            Background="#00007ACC"
+                            TailWidth="6" TailHeight="12" >
+                        <TextBlock Foreground="Black" Text="fdsadfsafsdafadsf"  />
+                    </my:AngleBorder>
+                </Grid>
+
+                <Grid Height="38" Margin="10,0">
+                    <my:AngleBorder Padding="10" BorderBrush="Black" BorderThickness="1" 
+                            UseLayoutRounding="True" SnapsToDevicePixels="True"
+                            Placement="RightBottom" CornerRadius="4" VerticalAlignment="Center"
+                            Background="#00007ACC"
+                            TailWidth="6" TailHeight="12" >
+                        <TextBlock Foreground="Black" Text="fdsadfsafsdafadsf" 
+                           VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    </my:AngleBorder>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Grid VerticalAlignment="Center" Margin="10">
+                    <Border BorderBrush="Black" Background="#FFF" BorderThickness="10" CornerRadius="4" Margin="0,0,0,7">
+                        <Border.Effect>
+                            <DropShadowEffect BlurRadius="10" Opacity="0.5" ShadowDepth="0" Color="Brown" />
+                        </Border.Effect>
+                    </Border>
+                    <my:AngleBorder Padding="10" BorderBrush="#585D6B" BorderThickness="1" 
+                                SnapsToDevicePixels="True" UseLayoutRounding="True"
+                                Placement="BottomLeft" CornerRadius="4"
+                                Background="#585D6B" VerticalAlignment="Center"
+                                TailWidth="12" TailHeight="6" TailHorizontalOffset="20">
+                        <TextBlock x:Name="text" Text="创建新的Border创建新的" TextWrapping="Wrap" Foreground="White" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center"
+                               FontSize="20"/>
+                    </my:AngleBorder>
+                </Grid>
+
+                <Grid VerticalAlignment="Center" Margin="10">
+                    <Border BorderBrush="Black" Background="#FFF" BorderThickness="10" CornerRadius="4" Margin="0,0,0,7">
+                        <Border.Effect>
+                            <DropShadowEffect BlurRadius="10" Opacity="0.5" ShadowDepth="0" Color="Brown" />
+                        </Border.Effect>
+                    </Border>
+                    <my:AngleBorder Padding="10" BorderBrush="#585D6B" BorderThickness="1" 
+                                SnapsToDevicePixels="True" UseLayoutRounding="True"
+                                Placement="BottomCenter" CornerRadius="4"
+                                Background="#585D6B" VerticalAlignment="Center"
+                                TailWidth="12" TailHeight="6" TailHorizontalOffset="20">
+                        <TextBlock Text="创建新的Border创建新的" TextWrapping="Wrap" Foreground="White" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center"
+                               FontSize="20"/>
+                    </my:AngleBorder>
+                </Grid>
+
+                <Grid VerticalAlignment="Center" Margin="10">
+                    <Border BorderBrush="Black" Background="#FFF" BorderThickness="10" CornerRadius="4" Margin="0,0,0,7">
+                        <Border.Effect>
+                            <DropShadowEffect BlurRadius="10" Opacity="0.5" ShadowDepth="0" Color="Brown" />
+                        </Border.Effect>
+                    </Border>
+                    <my:AngleBorder Padding="10" BorderBrush="#585D6B" BorderThickness="1" 
+                                SnapsToDevicePixels="True" UseLayoutRounding="True"
+                                Placement="BottomRight" CornerRadius="4"
+                                Background="#585D6B" VerticalAlignment="Center"
+                                TailWidth="12" TailHeight="6" TailHorizontalOffset="20">
+                        <TextBlock Text="创建新的Border创建新的" TextWrapping="Wrap" Foreground="White" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center"
+                               FontSize="20"/>
+                    </my:AngleBorder>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv", "cv\cv.csproj", "{514C1BB4-8346-4B49-84A6-15786A5CBA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videosource", "videosource\videosource.csproj", "{41A3C64D-F40A-421C-A8FC-5BF46EE5247C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{514C1BB4-8346-4B49-84A6-15786A5CBA0D}.Debug.ActiveCfg = Debug|.NET
+		{514C1BB4-8346-4B49-84A6-15786A5CBA0D}.Debug.Build.0 = Debug|.NET
+		{514C1BB4-8346-4B49-84A6-15786A5CBA0D}.Release.ActiveCfg = Release|.NET
+		{514C1BB4-8346-4B49-84A6-15786A5CBA0D}.Release.Build.0 = Release|.NET
+		{41A3C64D-F40A-421C-A8FC-5BF46EE5247C}.Debug.ActiveCfg = Debug|.NET
+		{41A3C64D-F40A-421C-A8FC-5BF46EE5247C}.Debug.Build.0 = Debug|.NET
+		{41A3C64D-F40A-421C-A8FC-5BF46EE5247C}.Release.ActiveCfg = Release|.NET
+		{41A3C64D-F40A-421C-A8FC-5BF46EE5247C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

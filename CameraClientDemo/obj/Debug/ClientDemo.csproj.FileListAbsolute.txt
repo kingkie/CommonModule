@@ -1,0 +1,101 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\bin\ClientDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\bin\ClientDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\bin\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.AddDevForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ClientDemo.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.DevForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ComboxItem.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.PTZform.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Form_Transpanrent.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.VideoForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\bin\ClientDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\bin\ClientDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\bin\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.AddDevForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ClientDemo.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.DevForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ComboxItem.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.PTZform.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Form_Transpanrent.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.VideoForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\video\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.AddDevForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ClientDemo.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.DevForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ComboxItem.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.PTZform.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Form_Transpanrent.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.VideoForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.csprojResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\bin\ClientDemo.exe.config
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\bin\ClientDemo.exe
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\bin\ClientDemo.pdb
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.AddDevForm.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ClientDemo.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.DevForm.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ComboxItem.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.PTZform.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Form_Transpanrent.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.VideoForm.resources
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\我的文档\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.exe.config
+D:\我的文档\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+D:\我的文档\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.exe.config
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.exe
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.pdb
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.AddDevForm.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ClientDemo.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.DevForm.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.ComboxItem.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.PTZform.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Form_Transpanrent.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.VideoForm.resources
+D:\Documents\Visual Studio 2012\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\bin\ClientDemo.exe.config
+D:\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.exe
+D:\Documents\Visual Studio 2010\Projects\通过的程序\ClientDemo_C#\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ClientDemo_C#\ClientDemo\obj\Debug\ResGen.write.1.tlog
+G:\程序设计\C#\C#音频视频\bin\ClientDemo.exe.config
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.exe
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.pdb
+G:\程序设计\C#\C#音频视频\bin\ClientDemo.exe
+G:\程序设计\C#\C#音频视频\bin\ClientDemo.pdb
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.AddDevForm.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.ClientDemo.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.DevForm.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.ComboxItem.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.PTZform.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.Form_Transpanrent.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.VideoForm.resources
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.Cache
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\bin\Debug\ClientDemo.exe.config
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\bin\Debug\ClientDemo.exe
+G:\程序设计\C#\C#音频视频\乔安ClientDemo\bin\Debug\ClientDemo.pdb

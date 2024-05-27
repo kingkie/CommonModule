@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FlaUI.Core">
+      <HintPath>bin\Debug\net7.0-windows\FlaUI.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FlaUI.UIA3">
+      <HintPath>bin\Debug\net7.0-windows\FlaUI.UIA3.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.UIAutomationClient">
+      <HintPath>bin\Debug\net7.0-windows\Interop.UIAutomationClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

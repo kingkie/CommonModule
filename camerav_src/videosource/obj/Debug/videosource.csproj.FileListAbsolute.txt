@@ -1,0 +1,6 @@
+D:\MyLearnProjects\AILearns\camerav_src\videosource\bin\Debug\videosource.dll
+D:\MyLearnProjects\AILearns\camerav_src\videosource\bin\Debug\videosource.pdb
+D:\MyLearnProjects\AILearns\camerav_src\videosource\obj\Debug\videosource.csproj.AssemblyReference.cache
+D:\MyLearnProjects\AILearns\camerav_src\videosource\obj\Debug\videosource.csproj.CoreCompileInputs.cache
+D:\MyLearnProjects\AILearns\camerav_src\videosource\obj\Debug\videosource.dll
+D:\MyLearnProjects\AILearns\camerav_src\videosource\obj\Debug\videosource.pdb
